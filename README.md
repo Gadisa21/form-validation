@@ -27,3 +27,7 @@ Follow the instructions below to get the project up and running on your local ma
 
 ## Email values must be valid inputs
 ![Screenshot of the email pattern](./src/screenshots/emailPattern.png)
+
+## After a successful form submission.clear the input values and display success Message
+
+![Screenshot of the email pattern](./src/screenshots/success.png)

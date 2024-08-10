@@ -26,8 +26,8 @@ input[type="date"] {
 }
 
 .error {
-  color: red;
-  font-size: 12px;
+  color: rgb(243, 10, 10);
+  font-size: 14px;
   text-align: left;
 }
 
@@ -42,5 +42,15 @@ textarea {
   box-sizing: border-box; 
   resize: vertical; 
   border-radius: 7px;
-  border: 1px solid #ccc
+  border: 1px solid #ccc;
+  
+  
+}
+label{
+  margin-left: 5px;
+}
+.my-div {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+  background-color: hsl(180, 66%, 71%);
 }
